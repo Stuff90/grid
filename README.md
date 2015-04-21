@@ -1,3 +1,3 @@
-# grid
+# Grid
 
 LESS grid reusable structure
